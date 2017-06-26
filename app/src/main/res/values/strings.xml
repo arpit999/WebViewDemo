@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebViewDemo</string>
+    <string name="html_content"><![CDATA[<html><body> <h1>HELLO</h1>, WORLD </body></html>]]></string>
+    <string name="html_content_two"><![CDATA[<html><body> HELLO, <h1>WORLD</h1> </body></html>]]></string>
+    <string name="stackoverflow">https://stackoverflow.com/users/3985071/arpit-patel</string>
+    <string name="simple">Simple</string>
+</resources>
